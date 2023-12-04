@@ -28,3 +28,6 @@ header{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
+.tamanho{
+    width: 60%;
+}
