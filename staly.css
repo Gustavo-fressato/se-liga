@@ -22,4 +22,5 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background: linear-gradient(#1D592E, #BEE1C8);
 }
