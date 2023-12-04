@@ -27,6 +27,7 @@ header{
 .gridi{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
+    background-color: #BEE1C8;
 }
 .tamanho{
     width: 60%;
