@@ -9,3 +9,6 @@ header{
 .lista-menu{
     display: none;
 }
+.check:checked ~ .lista-menu{
+    display: block;
+}
