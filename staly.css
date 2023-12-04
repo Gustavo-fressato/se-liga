@@ -12,3 +12,6 @@ header{
 .check:checked ~ .lista-menu{
     display: block;
 }
+.perfil{
+    display: flex;
+}
