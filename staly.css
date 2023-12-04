@@ -3,3 +3,9 @@ header{
     align-items: center;
     justify-content: space-around;
 }
+.caxa1{
+    display: flex;
+}
+.lista-menu{
+    display: none;
+}
